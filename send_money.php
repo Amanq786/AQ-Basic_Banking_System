@@ -21,7 +21,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
-<body style="background-color:#; padding-top:8%;">
+<body style="background-color:#008080; padding-top:8%;">
 
 
 
